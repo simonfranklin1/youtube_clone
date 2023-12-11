@@ -1,4 +1,4 @@
-# youtube_clone
+# Clone do YouTube
 Clone do Youtube feito em React
 
 ### O usuário pode
