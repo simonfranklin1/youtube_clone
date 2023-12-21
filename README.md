@@ -15,6 +15,9 @@ Clone do Youtube feito em React
 - Material Ui
 - React Router
 
+### Screenshot
+- ![Screenshot](/assets/screenshot-sf-media.png)
+
 ### Links
 - Autor: [Simon Franklin](https://github.com/simonfranklin1)
 - Site: [Clone YouTube](https://simonfranklin1.github.io/youtube_clone)
