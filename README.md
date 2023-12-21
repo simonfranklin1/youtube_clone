@@ -16,7 +16,7 @@ Clone do Youtube feito em React
 - React Router
 
 ### Screenshot
-- ![Screenshot](/src/assets/screenshot-sf-media.png)
+ ![Screenshot](/src/assets/screenshot-sf-media.png)
 
 ### Links
 - Autor: [Simon Franklin](https://github.com/simonfranklin1)
